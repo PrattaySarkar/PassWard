@@ -15,7 +15,7 @@ This is a simple random password generator tool written in [Python](https://www.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/random-password-generator.git
+git clone https://github.com/PrattaySarkar/PassWard.git
 ```
 
 2. Navigate to the project directory:
